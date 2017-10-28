@@ -16,7 +16,7 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
 
 import optparse
-
+// optparse is a more flexible library for command line options. It allows the users to specify options in conventional gui syntax
 import gtk
 from gnuradio import gr
 
