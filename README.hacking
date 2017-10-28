@@ -67,7 +67,7 @@ The big benefit is when you're staring at a block of code it's obvious
 which of the things being assigned to persist outside of the block.
 This also keeps you from having to be creative with parameter names
 for methods and constructors.  You just use the same name as the
-instance variable, without the d_.
+instance variable, without the d_(though it is not mandatory, it is just to make the user understand)
 
 class wonderfulness {
   std::string	d_name;
